@@ -1,0 +1,10 @@
+Reto 1:
+
+• ¿Cuál es la importancia de usar un algoritmo?
+Los algoritmos son muy importantes ya que son los pasos exactos para resolver un problema. Esto quiere decir que se requiere de datos de entrada y produce un valor como salida.
+
+• ¿Cómo un algoritmo mejora el proceso o servicio de una empresa?
+Nos da una mejor idea de como funciona los procesos de la empresa y como se podrían solucionar
+
+• ¿El algoritmo expuesto en este caso es el único con el que cuenta TuTienda?
+Todos los procesos de la empresa pueden catalogarse como un algoritmo
